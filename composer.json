@@ -1,0 +1,14 @@
+{
+    "name": "elmore/pdo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Elmore",
+            "email": "alexelmore49@gmail.com"
+        }
+    ],
+    "require": {
+        "voku/pagination": "^3.0"
+    }
+}
